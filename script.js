@@ -1,5 +1,5 @@
 var countdowndate = new Date(
-    "Feb 28,2022 20:00:00"
+    "Jul 28,2022 20:00:00"
 ).getTime(); /*To Set the time of release*/
 var x = setInterval(function () {
     var curr = new Date().getTime();
